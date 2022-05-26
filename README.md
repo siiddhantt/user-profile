@@ -8,7 +8,8 @@ Simple web-app to locally store your watchlist.
 
 ![2022-05-26_20-14_1](https://user-images.githubusercontent.com/47355538/170514532-1b8b88a9-c185-4a9d-a90e-bf53664c8b34.png)
 
-![2022-05-26_20-21](https://user-images.githubusercontent.com/47355538/170514560-5470f21d-e10f-4513-9053-fd6f6a33d0ab.png)
+![2022-05-26_20-28](https://user-images.githubusercontent.com/47355538/170515215-f8308f7e-66a5-434b-8d10-b229ec87abc9.png)
+
 
 ## Deployed app
 
